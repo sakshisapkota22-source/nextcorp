@@ -9,11 +9,7 @@
   --gray:#64748b;
 }
 
-@theme inline{
-  --color-background:var(--background);
-  --color-foreground:var(--foreground);
-  --font-sans:Arial, Helvetica, sans-serif;
-}
+
 
 *{
   margin:0;
